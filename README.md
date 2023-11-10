@@ -1,5 +1,5 @@
 # Java-Poo
-Pt-BR: Aprendendo orientação objeto na linguagem Java.
+Pt-BR: Aprendendo programação orientação-objeto na linguagem Java.
 
 En: Learning Object-oriented programming in the Java language.
 
